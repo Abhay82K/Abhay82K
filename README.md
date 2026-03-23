@@ -12,13 +12,33 @@ I am a Frontend Developer skilled in HTML, CSS, and JavaScript.<br>I build respo
 ![](https://nirzak-streak-stats.vercel.app/?user=Abhay82K&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay82K&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Abhay82K&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🚀 Projects
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Abhay82K&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🌐 Portfolio Website
+My personal portfolio website showcasing my skills and projects.  
+🔗 Live Demo: https://abhay82k.github.io/Portfolio/  
+📂 Code: https://github.com/Abhay82K/Portfolio/tree/main/Portfolio
 
----
+### 🎮 Tic Tac Toe
+A simple and interactive Tic Tac Toe game built using HTML, CSS, and JavaScript.  
+🔗 Live Demo: https://abhay82k.github.io/TIC-TAC-TOE/ 
+📂 Code: https://github.com/Abhay82K/TIC-TAC-TOE/tree/main/TIC%20TAC%20TOE%20GAME
+
+### ✂️ Rock Paper Scissors
+A fun Rock Paper Scissors game where users can play against the computer.  
+🔗 Live Demo: https://abhay82k.github.io/Rock-Paper-Scissors/  
+📂 Code: https://github.com/Abhay82K/Rock-Paper-Scissors 
+
+### 🧮 Calculator
+A basic calculator built using HTML, CSS, and JavaScript.  
+🔗 Live Demo: https://abhay82k.github.io/Calculator/
+📂 Code: https://github.com/Abhay82K/Calculator 
+
+### 🌡️ Temperature Converter
+A simple tool to convert temperature between Celsius and Fahrenheit.  
+🔗 Live Demo: https://abhay82k.github.io/Temperature-Converter/
+📂 Code: https://github.com/Abhay82K/Temperature-Converter/tree/main/Temperature%20Converter 
+
 [![](https://visitcount.itsvg.in/api?id=Abhay82K&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
