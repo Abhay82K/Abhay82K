@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am a Frontend Developer.  <br>I am learning to build responsive websites and improving my skills.
+I am a Frontend Developer skilled in HTML, CSS, and JavaScript.<br>I build responsive and user-friendly web applications and continuously improve my problem-solving skills.
 
 
 ## 🌐 Socials:
