@@ -37,7 +37,7 @@ A basic calculator built using HTML, CSS, and JavaScript.
 ### 🌡️ Temperature Converter
 A simple tool to convert temperature between Celsius and Fahrenheit.  
 🔗 Live Demo: https://abhay82k.github.io/Temperature-Converter/
-📂 Code: https://github.com/Abhay82K/Temperature-Converter/tree/main/Temperature%20Converter 
+📂 Code: https://github.com/Abhay82K/Temperature-Converter
 
 [![](https://visitcount.itsvg.in/api?id=Abhay82K&icon=0&color=0)](https://visitcount.itsvg.in)
 
