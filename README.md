@@ -72,11 +72,13 @@ I enjoy creating real-world projects, improving my problem-solving skills, and l
 
 # 📊 GitHub Stats
 
-![Abhay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhay82K&show_icons=true&theme=dark)
+# 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Abhay82K&theme=dark)
+![Abhay's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Abhay82K&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay82K&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abhay82K&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abhay82K&theme=tokyonight)
 
 ---
 
@@ -115,6 +117,12 @@ An interactive quiz game where users can select categories and difficulty levels
 
 **Tech Used:**
 HTML, CSS, JavaScript, API
+
+🔗 Live Demo:
+https://abhay82k.github.io/Trivia-Battle-Game/
+
+📂 Source Code:
+https://github.com/Abhay82K/Trivia-Battle-Game
 
 ---
 
@@ -225,4 +233,4 @@ https://github.com/Abhay82K/Temperature-Converter
 
 ## 👀 Profile Views
 
-![](https://komarev.com/ghpvc/?username=Abhay82K&color=blue&style=flat)
+<img src="https://komarev.com/ghpvc/?username=Abhay82K&label=Profile%20Views&color=0e75b6&style=flat" />
