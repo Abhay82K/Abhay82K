@@ -72,8 +72,6 @@ I enjoy creating real-world projects, improving my problem-solving skills, and l
 
 # 📊 GitHub Stats
 
-# 📊 GitHub Stats
-
 ![Abhay's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Abhay82K&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abhay82K&layout=compact&theme=tokyonight)
